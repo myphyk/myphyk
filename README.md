@@ -19,7 +19,3 @@ Skills: //todo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=myphyk&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/myphyk)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=myphyk)  
-
