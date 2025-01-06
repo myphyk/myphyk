@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Myphyk
+### Hi there 👋, my name is Myph
 #### I am a programmer in training
 
 
